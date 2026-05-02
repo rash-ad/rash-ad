@@ -14,11 +14,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 Student at **ICET**, Sri Lanka
-- 🔭 Currently building **SecureLaw** — a Legal AI Chat App
-- 🌱 Learning **Angular · Spring Boot · Flutter**
-- 📺 Running a **Self-Improvement YouTube Channel**
+- 🔭 Currently building **banking site **
+- 🌱 Learning **Angular React  · Spring Boot · Flutter**
 - 💡 Passionate about **Web Dev, AI Apps & Clean UI**
-- 💼 Exploring **Halal Passive Income & Financial Freedom**
 - 📫 Reach me at **rashad.mohd2004@gmail.com**
 
 <br clear="right"/>
