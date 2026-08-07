@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Student at **ICET**, Sri Lanka
-- 🔭 Currently building **banking site **
+- 🔭 Currently building **banking site  and Ecommerce project**
 - 🌱 Learning **Angular React  · Spring Boot · Flutter**
 - 💡 Passionate about **Web Dev, AI Apps & Clean UI**
 - 📫 Reach me at **rashad.mohd2004@gmail.com**
